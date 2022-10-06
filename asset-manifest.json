@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/day1-20-days.git/static/css/main.cd369fb7.css",
-    "main.js": "/day1-20-days.git/static/js/main.f4f5b579.js",
-    "index.html": "/day1-20-days.git/index.html",
-    "main.cd369fb7.css.map": "/day1-20-days.git/static/css/main.cd369fb7.css.map",
-    "main.f4f5b579.js.map": "/day1-20-days.git/static/js/main.f4f5b579.js.map"
+    "main.css": "/day1-20-days/static/css/main.cd369fb7.css",
+    "main.js": "/day1-20-days/static/js/main.f4f5b579.js",
+    "index.html": "/day1-20-days/index.html",
+    "main.cd369fb7.css.map": "/day1-20-days/static/css/main.cd369fb7.css.map",
+    "main.f4f5b579.js.map": "/day1-20-days/static/js/main.f4f5b579.js.map"
   },
   "entrypoints": [
     "static/css/main.cd369fb7.css",
