@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day1-20-days.git/static/css/main.cd369fb7.css",
+    "main.js": "/day1-20-days.git/static/js/main.f4f5b579.js",
+    "index.html": "/day1-20-days.git/index.html",
+    "main.cd369fb7.css.map": "/day1-20-days.git/static/css/main.cd369fb7.css.map",
+    "main.f4f5b579.js.map": "/day1-20-days.git/static/js/main.f4f5b579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd369fb7.css",
+    "static/js/main.f4f5b579.js"
+  ]
+}
